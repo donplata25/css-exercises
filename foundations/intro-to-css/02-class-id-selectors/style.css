@@ -1,9 +1,9 @@
 /* Add CSS Styling */
-p {
+.odd {
     background-color: hsl(350, 100%, 87%);
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-.third { 
+.adjust-font-size { 
     font-size: 24px;
 }
 #title 
@@ -13,7 +13,6 @@ p {
 }
 #fourth 
     {
-        background-color:hsl(120, 73%, 75%);
-        font-size: 24px;
+        background-color:hsl(120, 100%, 75%);
         font-weight: 700;
 }
